@@ -5,7 +5,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/GersonES/GersonE/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/GersonESS/GersonES/blob/main/img/header2.png?raw=true"/>
 </div>
 
 -----
